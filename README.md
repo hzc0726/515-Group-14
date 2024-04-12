@@ -18,10 +18,3 @@ This web application is designed for controlling a smart lighting system. It all
 
 ### Chatbot Interaction
 - **Simple Chatbot**: Includes a basic chatbot that responds to user inputs with predefined responses. It helps with navigating the app and understanding its features.
-
-## Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-repository/smart-lighting-system.git
-   cd smart-lighting-system
